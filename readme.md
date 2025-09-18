@@ -7,6 +7,8 @@ Apenas um teste
 
 ---
 
+Batatinha
+
 ## 🚀 Tecnologias
 - [Java 17+](https://openjdk.org/)  
 - Estrutura simples em **pacotes** (`model` e `system`)  
