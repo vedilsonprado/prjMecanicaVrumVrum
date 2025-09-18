@@ -5,6 +5,8 @@ O sistema simula a gestão de uma oficina mecânica, permitindo cadastrar **clie
 
 ---
 
+Batatinha
+
 ## 🚀 Tecnologias
 - [Java 17+](https://openjdk.org/)  
 - Estrutura simples em **pacotes** (`model` e `system`)  
