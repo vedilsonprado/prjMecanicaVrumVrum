@@ -3,7 +3,7 @@
 Um projeto educacional em **Java** desenvolvido para demonstrar na prática os **pilares da Programação Orientada a Objetos (POO)**.  
 O sistema simula a gestão de uma oficina mecânica, permitindo cadastrar **clientes, funcionários, carros e serviços**, explorando conceitos como **abstração, encapsulamento, herança e polimorfismo**.
 
-Apenas um teste Não sei Será mesmo?
+Apenas
 
 ---
 
